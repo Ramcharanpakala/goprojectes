@@ -1,0 +1,51 @@
+{
+	"ZTK_Logs_Test" : {
+		  "log_id":"TE001",
+		  "log_name":"DEF" ,
+		  "log_date_time_date":"2019-01-10 04:00:55",
+		  "ZTK_Logs_Test_Type":
+					{
+					  "test_type":"XYZ",
+					  "create_date":"2019-01-05 06:00:55" ,
+					  "modified_date":"2019-01-04 03:20:32" ,
+					  "created_by":1 ,
+					  "modified_by":1 
+					} ,
+		  "ZTK_Users_id":1 ,
+		  "created_by":1 ,
+		  "created_date":"2019-01-01 04:00:55" ,
+		  "modified_by":1 ,
+		  "modified_date":"2019-01-06 05:20:32" 
+		},
+
+	"ZTK_Logs_Event" :{
+		  "log_id":"TE001",
+		  "program_name":"ABC",
+		  "program_date_time_date":"2019-01-03 04:25:20",
+		  "ZTK_Logs_Event_Type":
+					{
+					  "events_type":"trips",
+					  "created_by":1 ,
+					  "modified_by":1 ,
+					  "create_date":"2019-01-01 04:00:55" ,
+					  "modified_date":"2019-01-06 05:20:32" 
+					},
+		  "ZTK_Users_id":4,
+		  "created_by":1 ,
+		  "created_date":"2019-01-01 04:00:55" ,
+		  "modified_by":1 ,
+		  "modified_date":"2019-01-06 05:20:32" 
+		},
+	"Logs_Maintenance" : {
+		  "component_name":"trips",
+		  "runtime_hr":1 ,
+		  "counter":1 ,
+		  "days_till_service":10 ,
+		  "maintenance_pending":1 ,
+		  "maintenance_status":0,
+		  "created_date":"2019-01-01 04:00:55" ,
+		  "modified_date":"2019-01-06 05:20:32" ,
+		  "created_by":1 ,
+		  "modified_by":1 
+		}
+}

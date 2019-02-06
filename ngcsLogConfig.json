@@ -1,0 +1,8 @@
+{
+	"LocalLogServer"	:	"127.0.0.1",
+	"LocalLogServerPort"	:	8181,
+	"RemoteLogServer"	:	"127.0.0.1",
+	"RemoteLogServerPort"	:	8090,
+	"LogLocally"		:	1,
+	"LogRemotely"		:	1
+}

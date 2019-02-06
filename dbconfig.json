@@ -1,0 +1,7 @@
+{
+	"DBServer"		:	"127.0.0.1",
+	"DBServerPort"		:	3306,
+	"DBUserName"		:	"root",
+	"DBPassword"		:	"superuser",
+	"DBName"		:	"klima_chamber"
+}
